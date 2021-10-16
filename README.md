@@ -75,3 +75,8 @@ Merge main with branch.
 ### Congratulations!
 1. You have successfully clone a respostiory, created a branch, modified files, commited changes, and merged those changes with the Origin. 
 2. Now you should be able to see your HelloWorld.java class in the git repository!
+### FAQ's
+1. I got back into git after this tutorial and I cannot find my access token! where is it?
+Answer: The git access token disappears after you create it. You will have to create and new one and save it somewhere on your computer. Saving it elsewhere is the only way to refrain from making a new access token each time you use git.
+### GitHub Support
+If you have any issues with git contact them here:(https://support.github.com/)
