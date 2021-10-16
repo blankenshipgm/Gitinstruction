@@ -1,6 +1,7 @@
 # Git Instruction
 # Introduction 
 This page covers the workflow of using a github repository.
+![image](https://user-images.githubusercontent.com/89304488/137590113-952bb08e-bed5-4361-b059-6aae3623988b.png)
 
 # Installation
 ### Requirements
