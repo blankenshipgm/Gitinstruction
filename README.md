@@ -79,7 +79,7 @@ Merge main with branch.
 1. You have successfully clone a respostiory, created a branch, modified files, commited changes, and merged those changes with the Origin. 
 2. Now you should be able to see your HelloWorld.java class in the git repository!
 
-![Short option example](hello world.PNG)
+![Short option example](hello world.png)
 
 ### FAQ's
 1. I got back into git after this tutorial and I cannot find my access token! where is it?
