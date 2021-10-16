@@ -37,12 +37,13 @@ Merge main with branch.
 ### Access repository and perform clone function
 1. Click here to access repository: (https://github.com/blankenshipgm/hello-world).
 2. Then click the drop down arrow on the green button labeled "Code".
-3. Make Sure HTTPS is selected and copy the address to your clipboard.
-4. Access your linux terminal and go to your desired directory.
-5. Write the command "git clone" and the paste the HTTPS address after the command.
-6. A line will appear wanting your git username and password.
-7. The password is a git access token. You can create one here (https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
-8. Once you have put in your username and access token the cloning process is complete. 
+3. ![Long option example](cloning.PNG)
+4. Make Sure HTTPS is selected and copy the address to your clipboard.
+5. Access your linux terminal and go to your desired directory.
+6. Write the command "git clone" and the paste the HTTPS address after the command.
+7. A line will appear wanting your git username and password.
+8. The password is a git access token. You can create one here (https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
+9. Once you have put in your username and access token the cloning process is complete. 
 ### Create Branch 
 1. On the command line of your linux machine write the code "git branch new". This command will create the branch named new.
 2. Next, write the command "git checkout new". This command will put you on the new branch.
