@@ -37,13 +37,13 @@ Merge main with branch.
 ### Access repository and perform clone function
 1. Click here to access repository: (https://github.com/blankenshipgm/hello-world).
 2. Then click the drop down arrow on the green button labeled "Code".
-3. ![Long option example](cloning.PNG)
-4. Make Sure HTTPS is selected and copy the address to your clipboard.
-5. Access your linux terminal and go to your desired directory.
-6. Write the command "git clone" and the paste the HTTPS address after the command.
-7. A line will appear wanting your git username and password.
-8. The password is a git access token. You can create one here (https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
-9. Once you have put in your username and access token the cloning process is complete. 
+ ![Long option example](cloning.PNG)
+3. Make Sure HTTPS is selected and copy the address to your clipboard.
+4. Access your linux terminal and go to your desired directory.
+5. Write the command "git clone" and the paste the HTTPS address after the command.
+6. A line will appear wanting your git username and password.
+7. The password is a git access token. You can create one here (https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
+8. Once you have put in your username and access token the cloning process is complete. 
 ### Create Branch 
 1. On the command line of your linux machine write the code "git branch new". This command will create the branch named new.
 2. Next, write the command "git checkout new". This command will put you on the new branch.
@@ -70,12 +70,14 @@ Merge main with branch.
 2. Before the branch can be pushed you will have to enter your git login credentials again.
 3. Then you can go back to the hello-world repository on git. 
 4. Near the top of the screen you will see a new change and a button that says "Compare & Pull Request".
+![Long option example](compare & pull request.PNG)
 5. Click on that button and then at the bottom there will be a button called "Create Pull Request", click it.
 ### Merge Main With Branch
 1. After clicking the "Create Pull Resquest", click the button that says "Merge Pull request".
 ### Congratulations!
 1. You have successfully clone a respostiory, created a branch, modified files, commited changes, and merged those changes with the Origin. 
 2. Now you should be able to see your HelloWorld.java class in the git repository!
+![Long option example](hello world.PNG)
 ### FAQ's
 1. I got back into git after this tutorial and I cannot find my access token! where is it?
 Answer: The git access token disappears after you create it. You will have to create and new one and save it somewhere on your computer. Saving it elsewhere is the only way to refrain from making a new access token each time you use git.
