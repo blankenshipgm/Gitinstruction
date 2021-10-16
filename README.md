@@ -71,7 +71,7 @@ Merge main with branch.
 2. Before the branch can be pushed you will have to enter your git login credentials again.
 3. Then you can go back to the hello-world repository on git. 
 4. Near the top of the screen you will see a new change and a button that says "Compare & Pull Request".
-![Long option examples](compare & pull request.PNG)
+![Screenshot](compare & pull request.PNG)
 5. Click on that button and then at the bottom there will be a button called "Create Pull Request", click it.
 ### Merge Main With Branch
 1. After clicking the "Create Pull Resquest", click the button that says "Merge Pull request".
@@ -79,7 +79,7 @@ Merge main with branch.
 1. You have successfully clone a respostiory, created a branch, modified files, commited changes, and merged those changes with the Origin. 
 2. Now you should be able to see your HelloWorld.java class in the git repository!
 
-![Short option example](hello world.png)
+![Screenshot](hello world.png)
 
 ### FAQ's
 1. I got back into git after this tutorial and I cannot find my access token! where is it?
