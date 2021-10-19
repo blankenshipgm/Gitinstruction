@@ -13,7 +13,7 @@ This page covers the workflow of using a github repository to add a Java file.
 Here's a list of steps to clone a repository, make changes, and then merge the changes to the main repository.
 
 ### Step Zero
-Clone a Repository
+Clone a repository.
 
 ### Step One
 Create branch for new work.
@@ -70,8 +70,8 @@ Merge main with branch.
 1. On the command line write "git push -u origin new". This will attempt to push the new branch to the repository.
 2. Before the branch can be pushed you will have to enter your git login credentials again.
 3. Then you can go back to the hello-world repository on git. 
-4. Near the top of the screen you will see a new change and a button that says "Compare & Pull Request".
-5. Click on that button and then at the bottom there will be a button called "Create Pull Request", click it.
+4. Near the top of the screen, you will see a new change and a button that says "Compare & Pull Request".
+5. Click on that button, and then at the bottom there will be a button called "Create Pull Request", click it.
 ### Merge Main With Branch
 1. After clicking the "Create Pull Resquest", click the button that says "Merge Pull request".
 ### Congratulations!
@@ -80,7 +80,7 @@ Merge main with branch.
 
 
 ### FAQ's
-1. I got back into git after this tutorial and I cannot find my access token! where is it?
+1. I got back into git after this tutorial, and I cannot find my access token! where is it?
 Answer: The git access token disappears after you create it. You will have to create and new one and save it somewhere on your computer. Saving it elsewhere is the only way to refrain from making a new access token each time you use git.
 ### GitHub Support
 If you have any issues with git contact them here:(https://support.github.com/)
