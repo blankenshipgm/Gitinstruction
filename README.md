@@ -1,6 +1,6 @@
-# Git Instruction
+# Git Instruction for Java Code
 # Introduction 
-This page covers the workflow of using a github repository.
+This page covers the workflow of using a github repository to add a Java file.
 ![image](https://user-images.githubusercontent.com/89304488/137590113-952bb08e-bed5-4361-b059-6aae3623988b.png)
 
 # Installation
@@ -84,3 +84,5 @@ Merge main with branch.
 Answer: The git access token disappears after you create it. You will have to create and new one and save it somewhere on your computer. Saving it elsewhere is the only way to refrain from making a new access token each time you use git.
 ### GitHub Support
 If you have any issues with git contact them here:(https://support.github.com/)
+### License
+(https://choosealicense.com/licenses/mit/)
