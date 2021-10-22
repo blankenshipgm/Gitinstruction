@@ -1,6 +1,7 @@
 # Git Instruction for Java Code
 # Introduction 
 This page covers the workflow of using a github repository to add a Java file.
+This worklow is important for software engineers to learn, as many companies use git.
 ![image](https://user-images.githubusercontent.com/89304488/137590113-952bb08e-bed5-4361-b059-6aae3623988b.png)
 
 # Installation
